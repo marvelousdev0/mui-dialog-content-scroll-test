@@ -1,0 +1,197 @@
+@font-face {
+  font-family: 'Geomanist';
+  src: url('geomanist/geomanist-thin-webfont.eot');
+  src: url('geomanist/geomanist-thin-webfont.eot?#iefix') format('embedded-opentype'),
+    url('geomanist/geomanist-thin-webfont.woff2') format('woff2'),
+    url('geomanist/geomanist-thin-webfont.woff') format('woff'),
+    url('geomanist/geomanist-thin-webfont.ttf') format('truetype');
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Geomanist';
+  src: url('geomanist/geomanist-thin-italic-webfont.eot');
+  src: url('geomanist/geomanist-thin-italic-webfont.eot?#iefix') format('embedded-opentype'),
+    url('geomanist/geomanist-thin-italic-webfont.woff2') format('woff2'),
+    url('geomanist/geomanist-thin-italic-webfont.woff') format('woff'),
+    url('geomanist/geomanist-thin-italic-webfont.ttf') format('truetype');
+  font-weight: 100;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Geomanist';
+  src: url('geomanist/geomanist-extralight-webfont.eot');
+  src: url('geomanist/geomanist-extralight-webfont.eot?#iefix') format('embedded-opentype'),
+    url('geomanist/geomanist-extralight-webfont.woff2') format('woff2'),
+    url('geomanist/geomanist-extralight-webfont.woff') format('woff'),
+    url('geomanist/geomanist-extralight-webfont.ttf') format('truetype');
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Geomanist';
+  src: url('geomanist/geomanist-extralight-italic-webfont.eot');
+  src: url('geomanist/geomanist-extralight-italic-webfont.eot?#iefix') format('embedded-opentype'),
+    url('geomanist/geomanist-extralight-italic-webfont.woff2') format('woff2'),
+    url('geomanist/geomanist-extralight-italic-webfont.woff') format('woff'),
+    url('geomanist/geomanist-extralight-italic-webfont.ttf') format('truetype');
+  font-weight: 200;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Geomanist';
+  src: url('geomanist/geomanist-light-webfont.eot');
+  src: url('geomanist/geomanist-light-webfont.eot?#iefix') format('embedded-opentype'),
+    url('geomanist/geomanist-light-webfont.woff2') format('woff2'),
+    url('geomanist/geomanist-light-webfont.woff') format('woff'),
+    url('geomanist/geomanist-light-webfont.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Geomanist';
+  src: url('geomanist/geomanist-light-italic-webfont.eot');
+  src: url('geomanist/geomanist-light-italic-webfont.eot?#iefix') format('embedded-opentype'),
+    url('geomanist/geomanist-light-italic-webfont.woff2') format('woff2'),
+    url('geomanist/geomanist-light-italic-webfont.woff') format('woff'),
+    url('geomanist/geomanist-light-italic-webfont.ttf') format('truetype');
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Geomanist';
+  src: url('geomanist/geomanist-regular-webfont.eot');
+  src: url('geomanist/geomanist-regular-webfont.eot?#iefix') format('embedded-opentype'),
+    url('geomanist/geomanist-regular-webfont.woff2') format('woff2'),
+    url('geomanist/geomanist-regular-webfont.woff') format('woff'),
+    url('geomanist/geomanist-regular-webfont.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Geomanist';
+  src: url('geomanist/geomanist-regular-italic-webfont.eot');
+  src: url('geomanist/geomanist-regular-italic-webfont.eot?#iefix') format('embedded-opentype'),
+    url('geomanist/geomanist-regular-italic-webfont.woff2') format('woff2'),
+    url('geomanist/geomanist-regular-italic-webfont.woff') format('woff'),
+    url('geomanist/geomanist-regular-italic-webfont.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Geomanist';
+  src: url('geomanist/geomanist-book-webfont.eot');
+  src: url('geomanist/geomanist-book-webfont.eot?#iefix') format('embedded-opentype'),
+    url('geomanist/geomanist-book-webfont.woff2') format('woff2'),
+    url('geomanist/geomanist-book-webfont.woff') format('woff'),
+    url('geomanist/geomanist-book-webfont.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Geomanist';
+  src: url('geomanist/geomanist-book-italic-webfont.eot');
+  src: url('geomanist/geomanist-book-italic-webfont.eot?#iefix') format('embedded-opentype'),
+    url('geomanist/geomanist-book-italic-webfont.woff2') format('woff2'),
+    url('geomanist/geomanist-book-italic-webfont.woff') format('woff'),
+    url('geomanist/geomanist-book-italic-webfont.ttf') format('truetype');
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Geomanist';
+  src: url('geomanist/geomanist-medium-webfont.eot');
+  src: url('geomanist/geomanist-medium-webfont.eot?#iefix') format('embedded-opentype'),
+    url('geomanist/geomanist-medium-webfont.woff2') format('woff2'),
+    url('geomanist/geomanist-medium-webfont.woff') format('woff'),
+    url('geomanist/geomanist-medium-webfont.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Geomanist';
+  src: url('geomanist/geomanist-medium-italic-webfont.eot');
+  src: url('geomanist/geomanist-medium-italic-webfont.eot?#iefix') format('embedded-opentype'),
+    url('geomanist/geomanist-medium-italic-webfont.woff2') format('woff2'),
+    url('geomanist/geomanist-medium-italic-webfont.woff') format('woff'),
+    url('geomanist/geomanist-medium-italic-webfont.ttf') format('truetype');
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Geomanist';
+  src: url('geomanist/geomanist-bold-webfont.eot');
+  src: url('geomanist/geomanist-bold-webfont.eot?#iefix') format('embedded-opentype'),
+    url('geomanist/geomanist-bold-webfont.woff2') format('woff2'),
+    url('geomanist/geomanist-bold-webfont.woff') format('woff'),
+    url('geomanist/geomanist-bold-webfont.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Geomanist';
+  src: url('geomanist/geomanist-bold-italic-webfont.eot');
+  src: url('geomanist/geomanist-bold-italic-webfont.eot?#iefix') format('embedded-opentype'),
+    url('geomanist/geomanist-bold-italic-webfont.woff2') format('woff2'),
+    url('geomanist/geomanist-bold-italic-webfont.woff') format('woff'),
+    url('geomanist/geomanist-bold-italic-webfont.ttf') format('truetype');
+  font-weight: 700;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Geomanist';
+  src: url('geomanist/geomanist-black-webfont.eot');
+  src: url('geomanist/geomanist-black-webfont.eot?#iefix') format('embedded-opentype'),
+    url('geomanist/geomanist-black-webfont.woff2') format('woff2'),
+    url('geomanist/geomanist-black-webfont.woff') format('woff'),
+    url('geomanist/geomanist-black-webfont.ttf') format('truetype');
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Geomanist';
+  src: url('geomanist/geomanist-black-italic-webfont.eot');
+  src: url('geomanist/geomanist-black-italic-webfont.eot?#iefix') format('embedded-opentype'),
+    url('geomanist/geomanist-black-italic-webfont.woff2') format('woff2'),
+    url('geomanist/geomanist-black-italic-webfont.woff') format('woff'),
+    url('geomanist/geomanist-black-italic-webfont.ttf') format('truetype');
+  font-weight: 800;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Geomanist';
+  src: url('geomanist/geomanist-ultra-webfont.eot');
+  src: url('geomanist/geomanist-ultra-webfont.eot?#iefix') format('embedded-opentype'),
+    url('geomanist/geomanist-ultra-webfont.woff2') format('woff2'),
+    url('geomanist/geomanist-ultra-webfont.woff') format('woff'),
+    url('geomanist/geomanist-ultra-webfont.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Geomanist';
+  src: url('geomanist/geomanist-ultra-italic-webfont.eot');
+  src: url('geomanist/geomanist-ultra-italic-webfont.eot?#iefix') format('embedded-opentype'),
+    url('geomanist/geomanist-ultra-italic-webfont.woff2') format('woff2'),
+    url('geomanist/geomanist-ultra-italic-webfont.woff') format('woff'),
+    url('geomanist/geomanist-ultra-italic-webfont.ttf') format('truetype');
+  font-weight: 900;
+  font-style: italic;
+}
